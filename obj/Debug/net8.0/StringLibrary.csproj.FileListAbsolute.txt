@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\bin\Debug\net8.0\StringLibrary.exe
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\bin\Debug\net8.0\StringLibrary.runtimeconfig.json
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\obj\Debug\net8.0\StringLibrary.genruntimeconfig.cache
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
