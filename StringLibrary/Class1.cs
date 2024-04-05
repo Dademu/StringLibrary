@@ -5,6 +5,11 @@
 /// </summary>
 public static class StringLibrary
 {
+    /// <summary>
+    /// this method checks if the string starts with an upper case letter
+    /// </summary>
+    /// <param name="str"></param>
+    /// <returns> True or false meaning the first letter is uppercase or not</returns>
     public static bool StartsWithUpper(this string? str)
     {
         if (string.IsNullOrWhiteSpace(str))
