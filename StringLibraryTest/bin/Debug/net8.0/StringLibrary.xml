@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StringLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:UtilityLibraries.StringLibrary">
+             <summary>
+            this class holds the extension method for the string data type
+             </summary>
+        </member>
+        <member name="M:UtilityLibraries.StringLibrary.StartsWithUpper(System.String)">
+            <summary>
+            this method checks if the string starts with an upper case letter
+            </summary>
+            <param name="str"></param>
+            <returns> True or false meaning the first letter is uppercase or not</returns>
+            <example>
+            Use this method to check if the first letter of a string is uppercase
+            <code>
+            var x = "Hello".StartsWithUpper()
+            
+            ;
+            </code>
+            </example>
+        </member>
+    </members>
+</doc>
