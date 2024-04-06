@@ -10,6 +10,14 @@ public static class StringLibrary
     /// </summary>
     /// <param name="str"></param>
     /// <returns> True or false meaning the first letter is uppercase or not</returns>
+    /// <example>
+    /// Use this method to check if the first letter of a string is uppercase
+    /// <code>
+    /// var x = "Hello".StartsWithUpper()
+    /// 
+    /// ;
+    /// </code>
+    /// </example>
     public static bool StartsWithUpper(this string? str)
     {
         if (string.IsNullOrWhiteSpace(str))

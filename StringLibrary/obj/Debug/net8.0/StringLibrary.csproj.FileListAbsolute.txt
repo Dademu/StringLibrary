@@ -10,3 +10,5 @@ C:\Users\User\Desktop\Modular Assignment\StringLibrary\StringLibrary\obj\Debug\n
 C:\Users\User\Desktop\Modular Assignment\StringLibrary\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
 C:\Users\User\Desktop\Modular Assignment\StringLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
 C:\Users\User\Desktop\Modular Assignment\StringLibrary\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\StringLibrary\bin\Debug\net8.0\StringLibrary.xml
+C:\Users\User\Desktop\Modular Assignment\StringLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.xml
