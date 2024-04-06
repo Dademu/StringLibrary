@@ -17,7 +17,9 @@ do
 } while (true);
 return;
 
-// Declare a ResetConsole local method
+///<summary>
+/// Declare a ResetConsole local method
+/// </summary>
 void ResetConsole()
 {
     if (row > 0)
